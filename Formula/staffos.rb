@@ -4,7 +4,6 @@ class Staffos < Formula
   url "https://github.com/rajgurung/staffOS/archive/refs/tags/cli-v0.1.0.tar.gz"
   sha256 "232123999a5af2a36a354add35a5405017b72e48f68030dc159def5b4837f879"
   license "MIT"
-  version "0.1.0"
 
   depends_on "ruby"
 
